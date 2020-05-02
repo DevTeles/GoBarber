@@ -7,9 +7,10 @@
 </h1>
 
 # `Indice`
-- [ReactJS](#-ReactJS)
-- [Tecnologias utilizadas](#-Tecnologias-utilizadas)
-- [Como baixar o projeto](#-Como-baixar-o-projeto)
+
+<a href="#ReactJS">1. ReactJS</a> <br />
+<a href="#Tecnologias-utilizadas">2. Tecnologias utilizadas</a> <br />
+<a href="#Como-baixar-o-projeto">3. Como baixar o projeto</a>
 
 ## ReactJS
 
@@ -34,16 +35,16 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 - uuidv4.
 
 ---
-## Como baixar o projeto
+## :runner: Como baixar o projeto
 
 
 ```bash
 
   # Clonar o repositório
-  $ git clone https://github.com/DevTeles/06-gobarber-web/.git/
+  $ git clone https://github.com/DevTeles/GoBarber.git
 
   # Entrar no diretório
-  $ cd 06-gobarber-web
+  $ cd GoBarber
 
   # Instalar as dependências
   $ yarn
