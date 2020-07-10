@@ -14,7 +14,7 @@
 
 ## ReactJS
 
-Esse é um aplicativo para quem tem uma barbearia, o app se chama `**GoBarber**`, ele terá as funcionalidade de fazer a gestão da sua barbearia, ou seja, controlar a sua agenda.
+Esse é um aplicativo para quem tem uma barbearia, o app se chama `**GoBarber**`, ele terá a funcionalidade de fazer a gestão da sua barbearia, ou seja, controlar a sua agenda entre outros.
 
 É uma aplicação que se conectar com **backend**.
 
